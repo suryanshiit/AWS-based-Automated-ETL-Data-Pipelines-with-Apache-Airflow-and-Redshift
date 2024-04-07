@@ -111,7 +111,7 @@ Run **test.ipynb** to confirm your records were successfully inserted into each 
 4. Staging and Inserting data to each table (ETL pipeline) <br>
     python etl.py <br> <br>
     
-5. Verigy the database <br>
+5. Verify the database <br>
     test.ipynb <br> <br>
     
 6. Delete the Redshift cluster <br> 
